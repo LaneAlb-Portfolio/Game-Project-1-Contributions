@@ -6,7 +6,6 @@ My contributions to ‘Awesome Name Goes Here’ (our group name) were as follow
 
 The design of level 2 entailed; creating a level layout, 
 playable environment, sourcing particle effects, animations, or textures, 1 animation, as well as placing assets in the scene.
-
 The platform models were designed by another team member, and I created a manipulated version to make elongated platforms for variety. 
 All textured objects in level 2 had textures taken from [CGTextures](https://www.textures.com) but were modeled by another team member. 
 The terrain textures were painted using the tools from a Unity plugin.
