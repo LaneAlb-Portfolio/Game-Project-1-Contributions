@@ -12,6 +12,7 @@ All textured objects in level 2 had textures taken from [CGTextures](https://www
 The terrain textures were painted using the tools from a Unity plugin.
 
 *Development Specifics*
+
 The dark ceiling of the volcano was made using an arch in the probuilder plugin and multiplying the texture up to create a dark overhang. 
 The flowing lava animation was taken from the creators of the lava texture who had a script premade, I just manipulated the texture and object to better fit the space. 
 All of the lava particle effects or lighting effects were taken from the unity standard assets or the asset store. For the lava effects themselves, I used point lights at differing hues to give a subtle glow throughout the level. For the combustions that flowed with the lava, I took a flame particle effect and randomized its nature along a box area from right to left. This created several flaming combustions as the lava flowed in the same direction. I found a spark particle effect that was within another flame particle prefab and duplicated it into the lava to add some life to certain spots of the lava. There is a monster waving at you when you enter the level, this monster uses the eyes and tentacles found in level 1. The other tentacles and eyes throughout the level are also taken from level 1 and the eye animations were done by another team member. The 
